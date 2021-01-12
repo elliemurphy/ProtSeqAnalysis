@@ -10,7 +10,7 @@ There are three sections to the software:
 
 To run:
 1. Import necessary programs
-2. Any protein sequence may be run through the error checking and amino acid composition functions. An example protein sequence derived from *Arabidopsis thaliana* encoding SLAH1, a protein bearing similarity to the SLAC1 protein, has been included in the Markdown for use
+2. Any protein sequence may be run through the error checking and amino acid composition functions. Example protein sequences derived from *Arabidopsis thaliana* encoding PYL1 and PYL2 receptor proteins has been included in the Markdown for use. These were obtained from Uniprot (https://www.uniprot.org/uniprot/Q8VZS8; https://www.uniprot.org/uniprot/O80992)
 3. A number of .bgme files have also been uploaded as sample data for the conserved motif search function. Save these files to the working directory
 4. Once again, an example of a conserved motif sequence to input when prompted has been included
 5. This function may be used to analyse the sequences within any BMGE files, and the conserved motif may be altered as necessary
