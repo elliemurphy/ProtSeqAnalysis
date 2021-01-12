@@ -1,7 +1,7 @@
 # ProtSeqAnalysis
 Data Science and Machine Learning for the Biosciences
 
-**A piece of software that explores protein sequences from land plant gene families.** 
+**Software that explores protein sequences from land plant gene families.** 
 
 There are three sections to the software:
 1. A simple error checking function that identifies if there are any characters in sequences that do not represent an amino acid
